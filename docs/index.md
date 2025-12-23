@@ -41,7 +41,7 @@ onMounted(() => {
 
 <div class="hero">
   <h1>ROTARY CLUB OF KARUR CENTRAL</h1>
-  <p>Club ID: 59133 | charted 2002</p>
+  <p>Club ID: 59133 | Charted 2002</p>
 </div>
 
 <div class="slider-container">
