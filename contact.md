@@ -20,7 +20,7 @@ Tamil Nadu, India
 |---|---|
 | **Phone** | +91 99626 26964 |
 | **Mobile** | +91 77088 43333 |
-| **Email** | [contact@rotarykarurcentral.org](mailto:contact@rotarykarurcentral.org) |
+| **Email** | [rotaryclubkarurcentral@gmail.com](mailto:rotaryclubkarurcentral@gmail.com) |
 
 <!--
 ## Location
