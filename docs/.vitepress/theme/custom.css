@@ -207,4 +207,7 @@ a:hover {
 .VPImage.logo {
     height: 60px;   /* keep aspect ratio */
 }
+.VPNavBarTitle span {
+  display: none;
+}
 

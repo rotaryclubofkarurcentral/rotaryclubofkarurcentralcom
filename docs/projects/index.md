@@ -10,6 +10,7 @@ import { data as projects } from '../projects.data.mjs'
 
 Our recent projects and ongoing initiatives making a difference in the community.
 
+<!--
 ## Recent Projects
 
 <div class="projects-grid">
@@ -23,6 +24,7 @@ Our recent projects and ongoing initiatives making a difference in the community
     </div>
   </a>
 </div>
+-->
 
 <style>
 .projects-grid {

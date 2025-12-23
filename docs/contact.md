@@ -22,6 +22,7 @@ Tamil Nadu, India
 | **Mobile** | +91 77088 43333 |
 | **Email** | [contact@rotarykarurcentral.org](mailto:contact@rotarykarurcentral.org) |
 
+<!--
 ## Location
 
 <iframe 
@@ -33,7 +34,9 @@ Tamil Nadu, India
   loading="lazy" 
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
+-->
 
+<!--
 ## Office Hours
 
 | Day | Hours |
@@ -41,6 +44,7 @@ Tamil Nadu, India
 | Monday - Friday | 10:00 AM - 6:00 PM |
 | Saturday | 10:00 AM - 2:00 PM |
 | Sunday | Closed |
+-->
 
 <style>
 table {
