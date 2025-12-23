@@ -3,7 +3,7 @@ title: Events
 ---
 
 <script setup>
-import { data as events } from './events.data.mjs'
+import { data as events } from '../events.data.mjs'
 </script>
 
 # Events
