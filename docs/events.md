@@ -8,7 +8,7 @@ import { data as events } from './events.data.mjs'
 
 # Events
 
-Below are our upcoming and recent events. Click any event for more details.
+Click any event for more details.
 
 ## Upcoming Events
 

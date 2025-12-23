@@ -15,7 +15,7 @@ description: Free health screenings and education for all community residents.
 
 | | |
 |---|---|
-| **Date** | {{ $frontmatter.date }} |
+| **Date** | {{ $frontmatter.date.split('T')[0] }} |
 | **Location** | {{ $frontmatter.location }} |
 | **Chief Guest** | {{ $frontmatter.guest }} |
 

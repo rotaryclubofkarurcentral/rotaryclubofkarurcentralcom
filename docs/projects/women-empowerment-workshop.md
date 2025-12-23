@@ -1,6 +1,6 @@
 ---
 title: Women Empowerment Workshop
-date: 2025-09-25
+date: 2023-09-25
 location: Rotary Community Hall, Karur
 participants: 25 trainers and 150 women participants
 image: https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&auto=format&fit=crop

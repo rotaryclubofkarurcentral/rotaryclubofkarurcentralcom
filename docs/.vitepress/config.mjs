@@ -8,7 +8,7 @@ export default defineConfig({
   ],
   themeConfig: {
     siteTitle: 'Rotary Club of Karur Central',
-    logo: '/rotary.svg',
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Events', link: '/events' },

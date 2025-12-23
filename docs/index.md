@@ -13,10 +13,10 @@ const recentEvents = events.slice(0, 3)
 const recentProjects = projects.slice(0, 3)
 
 const slides = [
-  { image: 'https://images.unsplash.com/photo-1503428593586-e225b39bddfe?q=80&w=1600&auto=format&fit=crop', text: 'Building community — one project at a time' },
-  { image: 'https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=1600&auto=format&fit=crop', text: 'Together we make a difference' },
-  { image: 'https://images.unsplash.com/photo-1559027615-cd4628902d4a?q=80&w=1600&auto=format&fit=crop', text: 'Empowering communities' },
-  { image: 'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?q=80&w=1600&auto=format&fit=crop', text: 'Join us in making change' }
+  { image: '/home/Frontpage2.jpg', text: 'Building community — one project at a time' },
+  { image: '/home/Frontpage3.jpg', text: 'Together we make a difference' },
+  { image: '/home/Frontpage1.jpg', text: 'Empowering communities' },
+  { image: '/home/frontpage4.jpeg', text: 'Join us in making change' }
 ]
 
 const currentSlide = ref(0)
@@ -40,8 +40,8 @@ onMounted(() => {
 </script>
 
 <div class="hero">
-  <h1>Rotary Club of Karur Central</h1>
-  <p>Serving the community with projects, events and fellowship.</p>
+  <h1>ROTARY CLUB OF KARUR CENTRAL</h1>
+  <p>Club ID: 59133 | charted 2002</p>
 </div>
 
 <div class="slider-container">
@@ -72,7 +72,7 @@ onMounted(() => {
     <img :src="event.image" :alt="event.title" class="event-image">
     <div class="event-content">
       <h3>{{ event.title }}</h3>
-      <p class="event-meta">📅 {{ event.date }} · 📍 {{ event.location }}</p>
+      <p class="event-meta">📅 {{ event.date.split('T')[0] }} · 📍 {{ event.location }}</p>
       <p class="event-desc">{{ event.description }}</p>
     </div>
   </a>
@@ -82,6 +82,7 @@ onMounted(() => {
   <a href="/events" class="btn">View All Events →</a>
 </div>
 
+<!-- 
 ## Recent Projects
 
 <div class="projects-grid">
@@ -98,6 +99,7 @@ onMounted(() => {
 <div style="text-align:center;margin-top:16px;">
   <a href="/projects" class="btn">View All Projects →</a>
 </div>
+-->
 
 <div class="footer">
   <p>Want to see all events and projects? Visit the Events and Projects pages.</p>
@@ -125,14 +127,14 @@ onMounted(() => {
 }
 
 .hero-logo {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 16px;
 }
 
 .hero h1 {
   margin: 0 0 12px;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .hero p {
@@ -157,7 +159,7 @@ onMounted(() => {
 .slide-wrapper {
   position: relative;
   width: 100%;
-  height: 400px;
+  height: 600px;
 }
 
 .slide-image {
@@ -265,7 +267,7 @@ onMounted(() => {
 
 .event-image {
   width: 100%;
-  height: 160px;
+  height: 260px;
   object-fit: cover;
 }
 

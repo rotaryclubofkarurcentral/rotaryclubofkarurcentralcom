@@ -9,17 +9,17 @@ We'd love to hear from you! Reach out to us through any of the following channel
 ## Address
 
 **Rotary Club of Karur Central**  
-123, Jawahar Bazaar Road,  
-Near Clock Tower,  
-Karur - 639001,  
+Mavericks B House,
+1/2A Sri Malaiamman complex, 
+valluvar Nagar, Salem By Pass road, Velayuthampalayam, Karur - 639117  
 Tamil Nadu, India
 
 ## Contact Details
 
 | | |
 |---|---|
-| **Phone** | +91 4324 123456 |
-| **Mobile** | +91 98765 43210 |
+| **Phone** | +91 99626 26964 |
+| **Mobile** | +91 77088 43333 |
 | **Email** | [contact@rotarykarurcentral.org](mailto:contact@rotarykarurcentral.org) |
 
 ## Location

@@ -203,3 +203,8 @@ a:hover {
 .back-btn:hover {
   opacity: 0.9;
 }
+/* Force bigger logo size */
+.VPImage.logo {
+    height: 60px;   /* keep aspect ratio */
+}
+

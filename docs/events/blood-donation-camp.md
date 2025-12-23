@@ -1,10 +1,10 @@
 ---
-title: Blood Donation Camp
-date: 2026-01-28
-location: Rotary Hall, Karur Central
-guest: Dr. Priya Sharma, Chief Medical Officer
-image: https://images.unsplash.com/photo-1615461066841-6116e61058f4?w=800&auto=format&fit=crop
-description: Organised with local hospitals to support blood banks and save lives.
+title: Special Projects Meet – Naneer & Azhithuzhi
+date: 2025-09-01
+location: Government Boys Higher Secondary School, Pugazhur
+guest: Dr. E. Vijayan,M.Sc, B.Ed, M.Phil Academic Speaker,
+image: /home/events/NaneerAzhithuzhi.jpg
+description: we didn’t just clean tanks—we stirred minds, inspired habits, and reminded our community that service begins with the basics.
 ---
 
 # Blood Donation Camp
@@ -15,40 +15,25 @@ description: Organised with local hospitals to support blood banks and save live
 
 | | |
 |---|---|
-| **Date** | {{ $frontmatter.date }} |
+| **Date** | {{ $frontmatter.date.split('T')[0] }} |
 | **Location** | {{ $frontmatter.location }} |
 | **Chief Guest** | {{ $frontmatter.guest }} |
 
 ## About This Event
 
-In partnership with local hospitals, we are organizing a blood donation camp to support regional blood banks. Every donation can save up to three lives!
+Rotary Club of Karur Central proudly launched a purposeful initiative —“ஆழித்துழி” (Azhithuzhi) and “நண்ணீர்” (Nanneer)—centered on water conservation and clean water awareness.
 
-### Why Donate Blood?
+Held at the Government Boys Higher Secondary School, Pugazhur, the event was graced by Dr. E. Vijayan, M.Sc., B.Ed., M.Phil., Academic Speaker, who shared powerful insights on the science and social responsibility behind water preservation. His words resonated deeply with students and guests alike.
 
-- **Save Lives**: One donation can save up to 3 lives
-- **Health Check**: Free health screening for all donors
-- **Community Service**: Help those in need in our community
-- **Safe Process**: All equipment is sterile and single-use
+Leading the initiative were Rtn. P. Thangavel, President, Rtn. E. Sriram, Project Chairman, and Rtn. S. Praveen Kumar, Secretary, whose coordinated efforts ensured both operational excellence and emotional impact throughout the program. As part of the project, our club members cleaned two major water tanks in the school, restoring access to safe drinking water for hundreds of students. This act was not just about sanitation—it was about protecting health, restoring dignity, and reinforcing Rotary’s commitment to basic needs.
 
-### Eligibility
+To make the message tangible, we conducted a live demonstration with students: Each child was invited to pour one glass of water into a large bucket, symbolizing how small daily actions can lead to massive collective savings. As the bucket filled, so did their understanding—of math, of impact, and of shared responsibility.
 
-- Age: 18-65 years
-- Weight: Above 50 kg
-- Good general health
-- No recent tattoos or piercings (within 6 months)
+We discussed the math behind water conservation—how one glass saved per student, per day, could translate into thousands of liters over a year. The children were amazed, engaged, and proud to participate. The session also covered hygiene, waste management, and environmental stewardship, encouraging students to become ambassadors of change in their homes and communities.
 
-### Schedule
+“Clean water is a right. Saving water is a habit. Awareness is the bridge between the two.”
 
-- **9:00 AM** - Registration opens
-- **9:30 AM** - Inauguration ceremony
-- **10:00 AM - 4:00 PM** - Blood donation
-- **4:30 PM** - Closing ceremony
+Through Azhithuzhi & Nanneer, we didn’t just clean tanks—we stirred minds, inspired habits, and reminded our community that service begins with the basics.
 
-### What We Provide
-
-- Free health checkup
-- Refreshments after donation
-- Certificate of appreciation
-- Donor card
 
 <a href="/events" style="display:inline-block;margin-top:20px;padding:10px 20px;background:#17458f;color:white;border-radius:6px;text-decoration:none;">← Back to Events</a>
